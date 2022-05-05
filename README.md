@@ -1,2 +1,2 @@
 # projeto docs
- Site com finalidade de facilitar a emissão dos principais documentos pessoais.
+ Projeto com finalidade de permitir a emissão dos principais documentos pessoais.
